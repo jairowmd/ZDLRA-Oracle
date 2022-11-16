@@ -1,2 +1,2 @@
 # ZDLRA-Oracle
-Scripts Para o gerenciamento do ZDLRA Oracle, OSB e OKM
+Scripts e comandos Para o gerenciamento do ZDLRA Oracle, OSB e OKM
