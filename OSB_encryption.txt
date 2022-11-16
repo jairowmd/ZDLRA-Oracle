@@ -1,0 +1,6 @@
+
+# Desativar a criptografia do OSB
+obtool setp backupencryption/enablehardwareencryption no
+
+Listar no OSB a criptografia
+obtool lsp backupencryption/enablehardwareencryption
